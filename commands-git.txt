@@ -3,3 +3,4 @@ git clone
 git push <remote> <branch>
 git push <remote> --force
 git push <remote> --tags
+git pull <remote>
