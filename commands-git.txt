@@ -4,3 +4,5 @@ git push <remote> <branch>
 git push <remote> --force
 git push <remote> --tags
 git pull <remote>
+git checkout -b <Rooney>
+git switch "my fork"
